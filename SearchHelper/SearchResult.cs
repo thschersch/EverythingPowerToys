@@ -11,5 +11,7 @@ namespace Community.PowerToys.Run.Plugin.Everything
 
         // Contains the Title of the file or folder
         public string Title { get; set; }
+        
+        public string Test{get;set;}
     }
 }
